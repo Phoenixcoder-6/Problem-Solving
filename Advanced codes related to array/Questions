@@ -1,3 +1,4 @@
 1. Sort array which consists of 0,1 and 2 without using any sorting algo.
 2. Find the “Kth” max and min element of an array.
 3. Move all the negative elements to one side of the array using Python.
+4. Find the Union and Intersection of the two sorted arrays in Python.
