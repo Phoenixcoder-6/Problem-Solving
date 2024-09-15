@@ -2,4 +2,5 @@
 2. Find the “Kth” max and min element of an array.
 3. Move all the negative elements to one side of the array using Python.
 4. Find the Union and Intersection of the two sorted arrays in Python.
-5. Find Largest sum of contiguous Subarray in Python
+5. Find Largest sum of contiguous Subarray in Python.
+6. Python Program to Minimize the Maximum Difference between Heights.
