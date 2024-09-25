@@ -15,3 +15,4 @@
 15. Python Program to find Factorial of a Large Number.
 16. Find common elements In 3 sorted arrays in Python.
 17. Python Program to Rearrange the array in alternating positive and negative items with O(1) extra space
+18. Given an array of size n and a number k, find all elements that appear more than ” n/k ” times.
