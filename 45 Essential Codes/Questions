@@ -19,3 +19,4 @@
 17.How do you traverse a singly linked list and print the data stored in each node sequentially from the head to the tail?
 18.Insertion at the beginning of a linkedlist.
 19.Implement a class for Node and LinkedList perform insertion at the end.
+20.Insert an element in the middle of a linkedlist.
